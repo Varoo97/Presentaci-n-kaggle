@@ -19,11 +19,17 @@ Subir los resultados con el mejor modelo entrenado de Machine Learning
 *Para llevar este proceso a cabo:
 
 Borramos columna de salary del DataFrame del Testeo
+
 Limpieza del DataFrame
+
 Usamos Get_dummies y LabelEncoder() para cambiar los valores categóricos
+
 Inicializamos y entrenamos distintos modelos de Machine Learning.
+
 Predición sobre el mismo Dataframe.
+
 Cogemos el mejor modelo (h2o) y lo entrenamos
+
 Exportar predicciones finales.
 
 
